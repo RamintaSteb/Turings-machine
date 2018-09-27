@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1537803488 source:d:\desktop\uni\kompiuteriu architektura\consoleapplication2\consoleapplication2\codeblock\main.cpp
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<string>
+	<conio.h>
+
